@@ -1,0 +1,19 @@
+{
+  "name": "newsapp",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
+    "axios": "0.19.0",
+    "react-navigation": "3.11.1",
+    "react-native-paper": "2.16.0"
+  }
+}
